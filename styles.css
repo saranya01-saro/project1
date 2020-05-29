@@ -1,0 +1,194 @@
+body{
+  font-family:'Merriweather', serif;
+}
+.colored{
+background-color:#f96d80;
+/*#ffaaa5;*/
+}
+/*.image{
+  margin-left: 50px;
+  position :relative;
+}*/
+
+.big-heading{
+  text-align:left;
+  color: white;
+  padding-bottom: 3%;
+  line-height: 1.5;
+  font-size:3rem;
+
+ /*margin-right:20%;*/
+}
+.pad{
+  text-align: center;
+}
+.pad1{
+  text-align: left;
+}
+/*.pad2{
+padding:1% 15%;
+}*/
+.navbar-brand{
+  font-size:2rem;
+}
+.price{
+padding-bottom: 5%;
+font-size: 2rem;
+}
+.nav-item{
+  font-size:1.5rem;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+label{
+  font-size:2rem;
+  text-align: left;
+  margin-left: 9%;
+
+}
+/*.heading{
+  padding-left: 20px;
+}*/
+#defaultCheck1{
+  text-align:left;
+  /*padding-left: 100px;*/
+ margin-left: 0px;
+ margin-top:0.1%;
+ zoom:3.5;
+}
+.b{
+  margin-top: 10%;
+  /*margin-left: 35%;*/
+  text-align:center;
+  margin-top:5%;
+  margin-bottom: 10%;
+  margin-left: 0.5%;
+}
+/*@media (max-width:500px){
+  h2{
+   text-align: center;
+  }
+  #defaultCheck1
+    padding-left:10%
+  }
+}*/
+
+.prevent{
+ text-align: center;
+ padding:5% 15% 5% 15%;
+  }
+  .r{
+    padding: 2% 3%;
+  }
+  .signup{
+    width:100%;
+  }
+  .car{
+    padding:7% 15%;
+  }
+  .g{
+    padding:7% 15%;
+  }
+  .test{
+    width:20%;
+  /*  border-radius: 100%;*/
+    text-align: center;
+
+/*margin-left:35%;*/
+  }
+  #testimonial{
+    text-align: center;
+  }
+  .testimonial-text{
+    line-height:1.5;
+    font-size:2rem;
+    color:white;
+    padding-bottom: 5%;
+  }
+  .a{
+    text-align: center;
+    line-height: 1.5;
+    padding-bottom: 5%;
+    font-size:2.5rem;
+  }
+  .gi{
+    padding:3% 3%;
+    text-align:center;
+    width:30%;
+  }
+  #footer{
+  padding-top:3%;
+  text-align: center;
+  background-color:#e5e5e5;
+}
+.navbar-brand{
+  font-family:'Pacifico';
+}
+
+.j{
+  text-align: center;
+}
+  .fo{
+  padding:1% 1%;
+  padding-bottom: 2%;
+}
+h3{
+  text-align:left;
+  font-size: 2rem;
+
+}
+p{
+  padding-bottom: 2%;
+}
+
+@media (min-width:1028px)
+{
+  .pad1{
+    padding-right:40%;
+  }
+  .big-heading{
+    padding-top: 20%;
+    text-align: left;
+    font-size:2.5rem;
+  }
+  #defaultCheck1{
+    text-align: left;
+  /*padding-top:2rem;*/
+ }
+ .image{
+   width:60%;
+    padding-top:10%;
+ }
+
+}
+@media (min-width:1000px)
+{
+  label{
+    margin-left:15%;
+  }
+.big-heading{
+  padding-top: 15%;
+  font-size: 2rem;
+}
+}
+
+@media (max-width:500px){
+  #defaultCheck1{
+    margin-top:0.2%;
+    zoom:3;
+  }
+  label{
+
+      margin-left:11%;
+  }
+  .image{
+padding-top:10%;
+  }
+}
+@media (max-width:1024px)and (min-width:1000px)
+{
+  .image{
+    padding-top: 20%;
+  width:65%;
+  }
+}
